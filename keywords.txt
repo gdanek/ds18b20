@@ -1,0 +1,16 @@
+# Methods and Functions (KEYWORD1)
+reset	KEYWORD1
+write_bit	KEYWORD1
+read_bit	KEYWORD1
+write	KEYWORD1
+write_bytes	KEYWORD1
+read	KEYWORD1
+read_bytes	KEYWORD1
+select	KEYWORD1
+skip	KEYWORD1
+depower	KEYWORD1
+reset_search	KEYWORD1
+search	KEYWORD1
+crc8	KEYWORD1
+crc16	KEYWORD1
+check_crc16	KEYWORD1

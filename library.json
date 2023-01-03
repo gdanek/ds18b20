@@ -1,0 +1,11 @@
+{
+    "name": "ds18b10",
+    "description": "for ds18b20",
+    "keywords": "sensor, temperature, ds18b20",
+    "authors": "gdanek",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gdanek"
+    },
+    "version": "1.0"
+}
